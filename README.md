@@ -1,8 +1,8 @@
 # SHVMP
-Welcome to our new website
+# Welcome to our new website
 
-300 % focused on development
+# 300 % focused on development
 
 
-Get ready with our new platform : www.shvmp.com
+# Get ready with our new platform : www.shvmp.com
 
